@@ -15,7 +15,6 @@
           "PROFILE"
         ],
         "animations": [
-          "look",
           "bedrock(swirlix, ground_idle)"
         ]
       },
