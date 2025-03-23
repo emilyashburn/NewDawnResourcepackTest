@@ -15,14 +15,14 @@
           "PROFILE"
         ],
         "animations": [
-          "bedrock(pancham, idle)"
+          "bedrock(pancham, ground_idle)"
         ]
       },
       "walking": {
         "poseName": "walking",
         "transformTicks": 10,
         "poseTypes": [ "WALK" ],
-        "animations": [ "bedrock(pancham, idle)" ]
+        "animations": [ "bedrock(pancham, ground_walk)" ]
       }
     }
    }
