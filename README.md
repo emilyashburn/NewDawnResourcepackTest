@@ -31,4 +31,3 @@ Many thanks to the different mod authors that contribute to this datapack!
 - Rotom Appliances
 - SyntheticPokemon
 - Hydro's Reanimons
-poop
