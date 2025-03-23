@@ -14,7 +14,7 @@ If requested by the mod author, content will be removed.
 
 ## Credits
 
-Many thanks to the different mod authors that contribute to this datapack! 
+Many thanks to the different mod authors that contribute to this datapack! heh
 
 - StarsMons
 - CloudMons
