@@ -22,7 +22,7 @@
         "poseName": "walking",
         "transformTicks": 10,
         "poseTypes": [ "WALK" ],
-        "animations": [ "bedrock(pancham, ground_walk)" ]
+        "animations": [ "bedrock(pancham, ground_idle)" ]
       }
     }
    }
