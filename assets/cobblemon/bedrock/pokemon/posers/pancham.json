@@ -9,14 +9,8 @@
 		"standing": {
 			"poseName": "standing",
 			"transformTicks": 10,
-			"poseTypes": [
-				"STAND",
-				"NONE",
-				"PORTRAIT",
-				"PROFILE"
-			],
 			"animations": [
-				"bedrock(arboliva, idle)"
+				"bedrock(pancham, idle)"
 			]
 		},
 		"walking": {
@@ -24,7 +18,7 @@
 			"transformTicks": 10,
 			"poseTypes": [ "WALK" ],
 			"animations": [
-				"bedrock(arboliva, idle)"
+				"bedrock(pancham, idle)"
 			]
 		}
 	}
