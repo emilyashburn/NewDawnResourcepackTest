@@ -13,7 +13,7 @@
 			"bones": [
 				{
 					"name": "pancham",
-					"pivot": [-1, 33, 0]
+					"pivot": [0, 0, 0]
 				},
 				{
 					"name": "head",
