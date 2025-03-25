@@ -15,14 +15,14 @@
           "PROFILE"
         ],
         "animations": [
-          "bedrock(swirlpuff, ground_idle)"
+          "bedrock(slurpuff, ground_idle)"
         ]
       },
       "walking": {
         "poseName": "walking",
         "transformTicks": 10,
         "poseTypes": [ "WALK" ],
-        "animations": [ "bedrock(swirlpuff, ground_walk)" ]
+        "animations": [ "bedrock(slurpuff, ground_walk)" ]
       }
     }
    }

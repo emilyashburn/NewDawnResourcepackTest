@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.swirlpuff.ground_idle": {
+		"animation.slurpuff.ground_idle": {
 			"loop": true,
 			"animation_length": 1.7083,
 			"bones": {
@@ -173,7 +173,7 @@
 				}
 			}
 		},
-		"animation.swirlpuff.ground_walk": {
+		"animation.slurpuff.ground_walk": {
 			"loop": true,
 			"animation_length": 1.7083,
 			"bones": {
