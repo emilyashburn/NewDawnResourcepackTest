@@ -4,16 +4,16 @@
     "variations": [
       {
         "aspects": [],
-        "poser": "cobblemon:swirpuff",
-        "model": "cobblemon:swirpuff.geo",
-        "texture": "cobblemon:textures/pokemon/swirlpuff/swirlix.png",
+        "poser": "cobblemon:swirlpuff",
+        "model": "cobblemon:swirlpuff.geo",
+        "texture": "cobblemon:textures/pokemon/swirlpuff/swirlpuff.png",
         "layers": []
       },
       {
         "aspects": [
           "shiny"
         ],
-        "texture": "cobblemon:textures/pokemon/swirpuff/swirpuff_shiny.png"
+        "texture": "cobblemon:textures/pokemon/swirlpuff/swirlpuff_shiny.png"
       }
     ]
    }
